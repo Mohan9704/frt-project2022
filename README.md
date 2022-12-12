@@ -9,6 +9,14 @@ This is a web based application developed for health and beauty spa based websit
 
 **Project Demo Video Link** - 
 
+## Problem Statement
+
+   Everyone wants to be a good looking person. So we saw an opportunity here that we can provide information and our services to whom wants it.
+  
+## Project Description
+
+   We provided good information about beauty and spa. Also we give our services to people wants it such as Hydro Therapy, Relaxing Massages, and Aroma Therapy. Also
+   we give hair styling services and makeup services. This website helps a lot for who are searching for beauty services and information.
 
 ## Azure technologies used for project
 
