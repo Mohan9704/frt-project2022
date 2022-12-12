@@ -70,5 +70,5 @@ This is a web based application developed for health and beauty spa based websit
 - CSS
 - Bootstrap
 - JavaScript
-
+ 
          All rights reserved by Vaddella Mohan, developed for FRT project
