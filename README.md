@@ -7,7 +7,7 @@ This is a web based application developed for health and beauty spa based websit
 
 **Project Link** - https://red-tree-047273500.2.azurestaticapps.net
 
-**Project Demo Video Link** - 
+**Project Demo Video Link** - https://youtu.be/v8KssrWUMRk
 
 ## Problem Statement
 
